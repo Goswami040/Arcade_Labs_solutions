@@ -1,0 +1,7 @@
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/BigQuery%20Soccer%20Data%20Analysis/quicklabgsp849.sh
+
+sudo chmod +x quicklabgsp849.sh
+
+./quicklabgsp849.sh
