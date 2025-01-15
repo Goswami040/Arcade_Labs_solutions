@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Creating%20Date%20Partitioned%20Tables%20in%20BigQuery/quicklabgsp414.sh
+
+sudo chmod +x quicklabgsp414.sh
+
+./quicklabgsp414.sh
