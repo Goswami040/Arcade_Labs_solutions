@@ -1,3 +1,4 @@
+
 export REGION_1=
 
 export REGION_2=
@@ -12,3 +13,5 @@ export REGION_3=
 curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Networking%20101/spequicklabgsp016.sh
 sudo chmod +x spequicklabgsp016.sh
 ./spequicklabgsp016.sh
+
+
