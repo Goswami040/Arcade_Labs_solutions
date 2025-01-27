@@ -1,0 +1,8 @@
+export REGION=
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/IAM%20Custom%20Roles/quicklabgsp190.sh
+
+sudo chmod  +x quicklabgsp190.sh
+
+./quicklabgsp190.sh
