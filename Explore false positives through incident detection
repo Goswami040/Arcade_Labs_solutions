@@ -1,0 +1,3 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Explore%20false%20positives%20through%20incident%20detection/quicklab.sh
+sudo chmod +x quicklab.sh
+./quicklab.sh
