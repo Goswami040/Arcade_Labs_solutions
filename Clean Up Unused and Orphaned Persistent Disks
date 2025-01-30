@@ -1,7 +1,3 @@
-export REGION=
-export ZONE=
-
-
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Clean%20Up%20Unused%20and%20Orphaned%20Persistent%20Disks/techcps648.sh
-sudo chmod +x techcps648.sh
-./techcps648.sh
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Clean%20Up%20Unused%20and%20Orphaned%20Persistent%20Disks/gsp648.sh
+sudo chmod +x gsp648.sh
+./gsp648.sh
