@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Cloud%20Data%20Loss%20Prevention%20API%20Qwik%20Start/quicklabgsp107.sh
+
+sudo chmod +x quicklabgsp107.sh
+
+./quicklabgsp107.sh
