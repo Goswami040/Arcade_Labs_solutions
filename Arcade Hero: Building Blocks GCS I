@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Arcade%20Hero/quicklabarc1200.sh
+
+sudo chmod +x quicklabarc1200.sh
+
+./quicklabarc1200.sh
