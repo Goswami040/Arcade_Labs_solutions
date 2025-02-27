@@ -1,0 +1,6 @@
+
+export REGION=
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Cloud%20Spanner%20Qwik%20Start/quicklabgsp102.sh
+sudo chmod +x quicklabgsp102.sh
+./quicklabgsp102.sh
