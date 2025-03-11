@@ -1,0 +1,3 @@
+curl -LO raw.githubusercontent.com/Techcps/GSP/master/Cloud%20Operations%20for%20GKE/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh
