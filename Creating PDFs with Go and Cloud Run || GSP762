@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Creating%20PDFs%20with%20Go%20and%20Cloud%20Run/arcadecrew.sh
+
+sudo chmod +x arcadecrew.sh
+
+./arcadecrew.sh
