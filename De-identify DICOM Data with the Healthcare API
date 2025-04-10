@@ -1,0 +1,3 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Deidentify%20DICOM%20Data%20with%20the%20Healthcare%20API/quicklabgsp626.sh
+sudo chmod +x quicklabgsp626.sh
+./quicklabgsp626.sh
