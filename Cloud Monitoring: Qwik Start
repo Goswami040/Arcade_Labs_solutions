@@ -1,3 +1,5 @@
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/ONDEMAND%20Cloud%20Monitoring%20Qwik%20Start/quicklab.sh
-sudo chmod +x quicklab.sh
-./quicklab.sh
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Monitoring%20Qwik%20Start/gsp089.sh
+
+sudo chmod +x gsp089.sh
+
+./gsp089.sh
