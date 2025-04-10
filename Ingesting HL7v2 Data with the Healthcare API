@@ -1,0 +1,7 @@
+Task 3. Define variables needed
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Ingesting%20HL7v2%20Data%20with%20the%20Healthcare%20API/quicklabgsp628.sh
+
+sudo chmod +x quicklabgsp628.sh
+
+./quicklabgsp628.sh
