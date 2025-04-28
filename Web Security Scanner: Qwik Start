@@ -1,0 +1,3 @@
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Web%20Security%20Scanner%20Qwik%20Start/arcadecrew.sh
+sudo chmod +x arcadecrew.sh
+./arcadecrew.sh
