@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Dataflow%20Qwik%20Start%20-%20Templates/arcadecrew.sh
+
+sudo chmod +x arcadecrew.sh
+
+./arcadecrew.sh
