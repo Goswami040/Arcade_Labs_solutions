@@ -1,0 +1,3 @@
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/SingleStore%20on%20Google%20Cloud/arcadecrew.sh
+sudo chmod +x arcadecrew.sh
+./arcadecrew.sh
